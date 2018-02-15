@@ -1,4 +1,13 @@
 # MyReads Project
+This project is a part of Udacity's ReactJS Program which helps students like me to develop a familiarity with ReactJS. This repository contains files for the UI; the back-end server is already provided by Udacity ( read on to find out more! ).
+
+
+#### How to Setup  
+1. Fork or Download the Repository  
+2. Open terminal and go to reactnd-project-myreads-starter/
+3. run `npm install` then run `npm start`. ( Tip: Use `screen` program )
+
+## About
 
 This is the starter template for the final assessment project for Udacity's React Fundamentals course. The goal of this template is to save you time by providing a static example of the CSS and HTML markup that may be used, but without any of the React code that is needed to complete the project. If you choose to start with this template, your job will be to add interactivity to the app by refactoring the static code in this template.
 
